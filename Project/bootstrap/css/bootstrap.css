@@ -5105,6 +5105,7 @@ border-radius
 	font-size: 18px;
 	line-height: 20px;
 	background: url(../img/logo.png) no-repeat;
+	display: none;
 }
 
 .navbar-brand:hover,.navbar-brand:focus {
